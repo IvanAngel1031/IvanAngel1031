@@ -4,7 +4,7 @@
 - 💞️ I’m looking gain experience in applying what I've already learned into real world applications.
 - 📫 You can reach me through email at ivanangel1031@gmail.com.
 ------------------------------------------------------------------
-#Programming Projects
+# Programming Projects
 -My current projects include:
   -Edith
     -A robotic arm based on "   " model.
