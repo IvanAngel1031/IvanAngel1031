@@ -5,13 +5,13 @@
 - 📫 You can reach me through email at ivanangel1031@gmail.com.
 ------------------------------------------------------------------
 # Programming Projects
--My current projects include:
-  -Edith
+## My current projects include:
+  ## Edith
     -A robotic arm based on "   " model.
     -Programmed in C++ and interfacing with a raspberry pi.
     -Uses a coordinate system to display the current position of each motor and is able to position itself based on user input.
     -Future prospects for this project.
       -Will act as a visual representation of motion tracking software using OpenCV
       
-  -Pokemon Peridot
+  ## Pokemon Peridot
     -A Pokemon style game structured with an Entity Component System (ECS).
